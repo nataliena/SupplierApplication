@@ -1,0 +1,64 @@
+.verticalLine {
+    border-left: 1px solid black;
+    height: 400px;
+}
+.trader.active {
+    display: block;
+}
+.trader{
+    display: none;
+}
+
+#secondDiv {
+    display: none;
+}
+#secondDivLeft {
+    display: none;
+
+}
+
+/* hr.new {
+   
+        border: 2px solid dimgray ;
+        border-radius: 5px;
+    
+} */
+
+/* @keyframes progressBar {
+    
+    50%{
+       
+        width: 50%;
+        background-color:#d9534f;
+        
+        
+        
+                           
+     
+ 
+    }
+    100%{
+   
+     width: 100%;
+     background-color:#d9534f;
+   
+     
+     
+    
+    }   
+ 
+ }
+
+ #progressBarYourCompanyDetails {
+    animation: progressBar 2s linear forwards  infinite ;
+ }
+ */
+
+
+
+
+
+
+
+
+
